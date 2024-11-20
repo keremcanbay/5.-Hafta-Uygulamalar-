@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\UML3\UML3\bin\Debug\UML3.exe.config
+C:\Users\yigit\source\repos\UML3\UML3\bin\Debug\UML3.exe
+C:\Users\yigit\source\repos\UML3\UML3\bin\Debug\UML3.pdb
+C:\Users\yigit\source\repos\UML3\UML3\obj\Debug\UML3.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\UML3\UML3\obj\Debug\UML3.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\UML3\UML3\obj\Debug\UML3.exe
+C:\Users\yigit\source\repos\UML3\UML3\obj\Debug\UML3.pdb
